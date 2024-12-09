@@ -2,5 +2,10 @@ hello
 
 
 
+<<<<<<< HEAD
 
 welcome hello hi
+=======
+welcome
+welcome hello 
+>>>>>>> 8e6b3da105093c278c8d55bccf14669366a381fb
